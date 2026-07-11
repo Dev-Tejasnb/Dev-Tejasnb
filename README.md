@@ -58,5 +58,5 @@
 
 ## 📫 Contact
 
-Email: your@email.com
-LinkedIn: your-link
+Email: tejasnb03@gmail.com
+LinkedIn: [Tejas N B](https://www.linkedin.com/in/tejasnb)
