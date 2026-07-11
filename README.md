@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋 I'm Tejas N B
 
-<!--
-**Dev-Tejasnb/Dev-Tejasnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 BCA Student at Sahyadri College
+- 🐍 Python Backend Developer
+- 🤖 AI & Automation Enthusiast
+- 🌐 API Developer
+- ☁️ VPS & Linux Enthusiast
+- 💻 Learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+- FastAPI
+- Flask
+- Node.js
+
+### Database
+- MongoDB
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+
+---
+
+## 📌 Current Projects
+
+- Authentication Panel
+- AI Assistant
+- Discord Bot
+- REST APIs
+- Hosting Automation
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Cloud Computing
+- Docker
+- DevOps
+
+---
+
+## 📫 Contact
+
+Email: your@email.com
+LinkedIn: your-link
