@@ -1,110 +1,298 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Tejas+N+B;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-  <br />
-  <p>
-    <a href="https://portfolio-tejas.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/tejas-n-b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:tejasnb03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Tejas N B**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=750&height=70&lines=Full+Stack+Developer;Python+%7C+FastAPI+Developer;Next.js+%7C+React+Developer;Backend+Architecture;Always+Learning+New+Technologies" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-tejasnb&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dev-tejasnb?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/dev-tejasnb?style=for-the-badge" />
+</p>
+
+<p>
+
+<a href="https://portfolio-tejas.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dev-tejasnb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/tejas-n-b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tejasnb03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-## Portfolio Website
+# 🚀 About Me
 
-An interactive developer portfolio built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS**. Features a cyberpunk-inspired dark theme with glassmorphism, particle animations, Three.js 3D scenes, AI chatbot, terminal emulator, and real-time GitHub integration.
+```yaml
+Name: Tejas N B
+Location: Karnataka, India
+Role: Full Stack Developer
+Education: BCA Student
+Languages: Python, JavaScript, TypeScript, C#
+Focus:
+  - Full Stack Development
+  - Backend APIs
+  - AI Integration
+  - Cyber Security
+  - Cloud Deployment
+Current Goal:
+  Building scalable SaaS applications
+```
 
-### Tech Stack
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,ts" />
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,flask,dotnet" />
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,linux,postman" />
+
+</p>
+
+---
+
+# 🌟 Featured Portfolio
+
+## ⚡ Modern Developer Portfolio
+
+A premium cyberpunk-inspired portfolio built using modern web technologies.
+
+### Highlights
+
+✨ Interactive Hero Section
+
+✨ Glassmorphism UI
+
+✨ Three.js 3D Scene
+
+✨ AI Chatbot
+
+✨ Interactive Terminal
+
+✨ GitHub Statistics
+
+✨ Animated Timeline
+
+✨ Project Filtering
+
+✨ Contact Form
+
+✨ Mobile Responsive
+
+---
+
+# 🧠 Features
+
+- Dynamic Typewriter Effect
+- Particle Background
+- 3D Objects
+- Framer Motion Animations
+- Smooth Scroll
+- Terminal Emulator
+- AI Assistant
+- Email Integration
+- GitHub GraphQL
+- Performance Optimized
+- SEO Ready
+- Dark Theme
+
+---
+
+# ⚙️ Tech Used
 
 | Category | Technologies |
-|---|---|
-| **Framework** | Next.js 16.2.11 (Turbopack) |
-| **UI Library** | React 19, TypeScript |
-| **Styling** | Tailwind CSS v3 |
-| **Animation** | Framer Motion 11, GSAP 3 |
-| **3D Graphics** | Three.js, @react-three/fiber 9, @react-three/drei 10 |
-| **Icons** | Lucide React |
-| **Fonts** | Space Grotesk (display), Inter (body), JetBrains Mono (mono) |
-| **Email** | EmailJS |
+|-----------|--------------|
+| Framework | Next.js 16 |
+| UI | React 19 |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| Animations | Framer Motion + GSAP |
+| 3D | Three.js |
+| Email | EmailJS |
+| API | GitHub GraphQL |
 
-### Features
+---
 
-- **Animated Background** — Real-time canvas particle system with animated grid overlay
-- **3D Scene** — Interactive Three.js particle field with floating geometry
-- **Typewriter Effect** — Dynamic headline cycling with configurable speed
-- **AI Chatbot** — Context-aware assistant that answers questions about skills, projects, and experience
-- **Terminal Emulator** — In-browser CLI with custom commands (`about`, `projects`, `skills`, `contact`, etc.)
-- **GitHub Integration** — Contribution graph and stats via GitHub GraphQL API
-- **Scroll Animations** — Framer Motion `whileInView` reveals with staggered children
-- **Loading Screen** — Animated intro with smooth transition
-- **Fully Responsive** — Mobile-first layout with glassmorphism cards
+# 📂 Portfolio Sections
 
-### Sections
+```
+🏠 Hero
+👨 About
+🛠 Skills
+🚀 Projects
+📜 Timeline
+📊 GitHub
+🤖 AI Assistant
+💻 Terminal
+📩 Contact
+```
 
-1. Hero — Animated intro with typewriter headlines
-2. About — Bio, social links, and personal info
-3. Skills — Categorized skill bars with proficiency levels
-4. Projects — Filterable project cards with tech tags
-5. Timeline — Experience, education, and certifications
-6. GitHub — Contribution calendar widget and stats
-7. AI Chatbot — Floating assistant (bottom-right)
-8. Terminal — Interactive CLI (bottom-left)
-9. Footer — Links and attribution
+---
 
-### Getting Started
+# 🚀 Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/dev-tejasnb/portfolio.git
+
 cd portfolio
 
-# Install dependencies
-npm install --legacy-peer-deps
+npm install
 
-# Set up environment variables
-cp .env.example .env.local
-# Edit .env.local with your credentials
-
-# Run development server
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000).
+---
 
-### Environment Variables
+# 🔑 Environment Variables
 
-Create `.env.local`:
+```env
+NEXT_PUBLIC_EMAILJS_SERVICE_ID=
 
-| Variable | Description |
-|---|---|
-| `NEXT_PUBLIC_EMAILJS_SERVICE_ID` | EmailJS service ID |
-| `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID` | EmailJS template ID |
-| `NEXT_PUBLIC_EMAILJS_PUBLIC_KEY` | EmailJS public key |
-| `NEXT_PUBLIC_GITHUB_TOKEN` | GitHub personal access token (for contribution graph) |
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=
 
-### Scripts
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start Turbopack dev server on `0.0.0.0:3000` |
-| `npm run build` | Production build |
-| `npm run start` | Start production server |
-| `npm run lint` | Run Next.js ESLint |
-
-### Build
-
-```bash
-npm run build
+NEXT_PUBLIC_GITHUB_TOKEN=
 ```
 
-Output is a fully static export in `.next/`.
+---
 
-### License
+# 📦 Scripts
 
-MIT © Tejas N B
+```bash
+npm run dev
+
+npm run build
+
+npm run start
+
+npm run lint
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-tejasnb&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tejasnb&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-tejasnb&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-tejasnb&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-tejasnb&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- AI Integrations
+- Docker & Kubernetes
+- System Design
+- Microservices
+- Cloud Infrastructure
+- DevOps
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:tejasnb03@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tejas-n-b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-tejas.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
