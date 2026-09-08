@@ -98,43 +98,59 @@ Learning:
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-tejasnb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tejasnb&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="./profile/streak.svg"
+  height="180"
+  alt="GitHub Streak"
+/>
+
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dev-tejasnb&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=dev-tejasnb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"
+  width="90%"
+  alt="GitHub Trophies"
+/>
 
-</p>
+</div>
 
----
+<br>
 
-# 📊 Contribution Graph
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/dev-tejasnb?style=for-the-badge&logo=github&label=Followers&color=3B82F6"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-tejasnb&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/github/stars/dev-tejasnb?style=for-the-badge&logo=github&label=Stars&color=F59E0B"/>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=dev-tejasnb&style=for-the-badge&label=Profile%20Views&color=22C55E"/>
 
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-tejasnb&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
