@@ -116,6 +116,20 @@ Learning:
 
 ---
 
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/dev-tejasnb?style=for-the-badge&logo=github&label=Followers&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/stars/dev-tejasnb?style=for-the-badge&logo=github&label=Stars&color=F59E0B"/>
+
+<img src="https://komarev.com/ghpvc/?username=dev-tejasnb&style=for-the-badge&label=Profile%20Views&color=22C55E"/>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
