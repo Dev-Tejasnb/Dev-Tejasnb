@@ -121,7 +121,7 @@ Learning:
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=dev-tejasnb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4"
+  src="./profile/trophy.svg"
   width="90%"
   alt="GitHub Trophies"
 />
