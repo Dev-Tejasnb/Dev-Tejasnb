@@ -21,9 +21,14 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: dev-tejasnb
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
+
+      - name: Check Trophy File
+        run: |
+          ls -lh profile/
+          test -f profile/trophy.svg
 
       - name: Commit Trophy SVG
         run: |
