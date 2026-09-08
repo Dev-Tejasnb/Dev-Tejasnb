@@ -1,21 +1,17 @@
 name: Generate GitHub Trophy
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
 
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
+permissions:
+  contents: write
 
 jobs:
   trophy:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout
@@ -36,6 +32,6 @@ jobs:
 
           git add profile/trophy.svg
 
-          git commit -m "Update GitHub trophy" || exit 0
+          git commit -m "Update GitHub Trophy" || exit 0
 
           git push
