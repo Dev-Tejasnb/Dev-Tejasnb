@@ -114,18 +114,6 @@ Learning:
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img
-  src="./profile/streak.svg"
-  height="180"
-  alt="GitHub Streak"
-/>
-
-</div>
-
 ---
 
 # 🏆 GitHub Achievements
